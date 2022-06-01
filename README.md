@@ -1,2 +1,2 @@
 # Javascript-Projects
- some javascript projects
+ Here will be some javascript projects.
